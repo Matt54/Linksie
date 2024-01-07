@@ -30,6 +30,10 @@ Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
+Music Service Providers
+
+Linksie is not affiliated with any music service provider such as Spotify and Apple Music, or any other company. Linksie is a 3rd party app created using their APIs.
+
 Contact Us
 
 If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
